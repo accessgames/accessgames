@@ -12,8 +12,8 @@ I have a github account for some reason
 
   # My friends
 
-<a href="https://github.com/Quartinal">Quartinal</a>
+<a href="https://github.com/prestont500">Preston</a>
 <li>
-<a href="https://github.com/Prestont500">Preston</a>
+<a href="https://github.com/Quartinal">Quartinal</a>
 <li>
 <a href="https://github.com/sevithescss">Sevi</a>
